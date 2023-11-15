@@ -32,7 +32,7 @@
 
 <br>
 
-## 2] Github Repos
+## 2] Github Repositories
 - [Snifer/L4bsForAndroid](https://github.com/Snifer/L4bsForAndroid/): apks of famous hacking apps
 
 <br><hr><br>
