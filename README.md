@@ -13,6 +13,7 @@
 ### Notes:
 - (for newbies) rooted device is essential for almost everything mentioned here, non-root things will be mentioned explicitly
 - find __hacking apps _apks___ for android [HERE](./apks)
+- find _kali nethunter_ & _andrax_ compressed files [HERE](./zips.md)
 
 
 <br><hr><br>
