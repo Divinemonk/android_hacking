@@ -5,8 +5,8 @@
 ### Index
 |sr.|category|
 |---|---|
-|1.|[Android Pentesting Suites](#android-pentesting-suites)|
-|2.|[Github Repositories](#github-repositories)|
+|1.|[Android Pentesting Suites](#1-android-pentesting-suites)|
+|2.|[Github Repositories](#2-github-repositories)|
 
 <br>
 
